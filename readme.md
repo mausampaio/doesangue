@@ -27,7 +27,7 @@ Instale os pacotes necessários:
     > npm install nodemon
     > npm install nunjucks
 
-Crie um arquivo com nome .env contendo os dados para conexão com sua database do Firebase:
+Crie um arquivo com nome .env na raiz do projeto contendo os dados para conexão com sua database do Firebase:
 
     MYAPIKEY=<SUA_API_KEY>
     AUTHDOMAIN=<SEU_AUTH_DOMAIN>
