@@ -37,3 +37,7 @@ Crie um arquivo com nome .env na raiz do projeto contendo os dados para conexão
     STRBUCKET=<SEU_STORAGE_BUCKET>
     MSGSENDERID=<SUA_MESSAGING_SENDER_ID>
     APPID=<SEU_APP_KEY>
+
+### Agrdecimento
+
+[fl4m3x](https://github.com/fl4m3x) - Pelo código que usei como base, valeu!
