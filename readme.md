@@ -26,6 +26,7 @@ Instale os pacotes necessários:
     > npm install firebase
     > npm install nodemon
     > npm install nunjucks
+    > npm install dotenv
 
 Crie um arquivo com nome .env na raiz do projeto contendo os dados para conexão com sua database do Firebase:
 

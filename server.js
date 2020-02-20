@@ -1,3 +1,4 @@
+require('dotenv').config();
 const firebase = require("firebase/app");
 require("firebase/database");
 // Your web app's Firebase configuration
