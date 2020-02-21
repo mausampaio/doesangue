@@ -73,6 +73,6 @@ server.post("/", function(req, res) {
 });
 
 // Ligar o servidor e permitir acesso na porta 3000
-server.listen(3000, function() {
+server.listen(process.env.PORT || 3000, function() {
     console.log("Servidor iniciado.");
 });
